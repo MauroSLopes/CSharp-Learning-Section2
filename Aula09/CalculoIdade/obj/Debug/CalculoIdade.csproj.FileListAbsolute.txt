@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula09\CalculoIdade\bin\Debug\CalculoIdade.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula09\CalculoIdade\bin\Debug\CalculoIdade.exe
+C:\Users\Mauro\Documents\C#Learning\Aula09\CalculoIdade\bin\Debug\CalculoIdade.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula09\CalculoIdade\obj\Debug\CalculoIdade.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula09\CalculoIdade\obj\Debug\CalculoIdade.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula09\CalculoIdade\obj\Debug\CalculoIdade.exe
+C:\Users\Mauro\Documents\C#Learning\Aula09\CalculoIdade\obj\Debug\CalculoIdade.pdb

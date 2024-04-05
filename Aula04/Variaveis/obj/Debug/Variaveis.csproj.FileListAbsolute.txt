@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula04\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula04\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\Mauro\Documents\C#Learning\Aula04\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula04\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula04\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula04\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\Mauro\Documents\C#Learning\Aula04\Variaveis\obj\Debug\Variaveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula10\NumeroParouImpar\bin\Debug\NumeroParouImpar.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula10\NumeroParouImpar\bin\Debug\NumeroParouImpar.exe
+C:\Users\Mauro\Documents\C#Learning\Aula10\NumeroParouImpar\bin\Debug\NumeroParouImpar.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula10\NumeroParouImpar\obj\Debug\NumeroParouImpar.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula10\NumeroParouImpar\obj\Debug\NumeroParouImpar.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula10\NumeroParouImpar\obj\Debug\NumeroParouImpar.exe
+C:\Users\Mauro\Documents\C#Learning\Aula10\NumeroParouImpar\obj\Debug\NumeroParouImpar.pdb

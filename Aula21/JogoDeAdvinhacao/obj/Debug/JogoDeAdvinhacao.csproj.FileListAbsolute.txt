@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula21\JogoDeAdvinhacao\bin\Debug\JogoDeAdvinhacao.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula21\JogoDeAdvinhacao\bin\Debug\JogoDeAdvinhacao.exe
+C:\Users\Mauro\Documents\C#Learning\Aula21\JogoDeAdvinhacao\bin\Debug\JogoDeAdvinhacao.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula21\JogoDeAdvinhacao\obj\Debug\JogoDeAdvinhacao.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula21\JogoDeAdvinhacao\obj\Debug\JogoDeAdvinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula21\JogoDeAdvinhacao\obj\Debug\JogoDeAdvinhacao.exe
+C:\Users\Mauro\Documents\C#Learning\Aula21\JogoDeAdvinhacao\obj\Debug\JogoDeAdvinhacao.pdb

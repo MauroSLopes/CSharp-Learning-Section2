@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauro\\Documents\\C#Learning\\Aula11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437341AD-9E89-4626-91E9-16CCCD4AC5E7}|IdadecomIF\\IdadecomIF.csproj|c:\\users\\mauro\\documents\\c#learning\\aula11\\idadecomif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437341AD-9E89-4626-91E9-16CCCD4AC5E7}|IdadecomIF\\IdadecomIF.csproj|solutionrelative:idadecomif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauro\\Documents\\C#Learning\\Aula11\\IdadecomIF\\Program.cs",
+              "RelativeDocumentMoniker": "IdadecomIF\\Program.cs",
+              "ToolTip": "C:\\Users\\Mauro\\Documents\\C#Learning\\Aula11\\IdadecomIF\\Program.cs",
+              "RelativeToolTip": "IdadecomIF\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:24:41.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

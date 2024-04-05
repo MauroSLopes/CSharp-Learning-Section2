@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula20\ListaNomes\bin\Debug\ListaNomes.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula20\ListaNomes\bin\Debug\ListaNomes.exe
+C:\Users\Mauro\Documents\C#Learning\Aula20\ListaNomes\bin\Debug\ListaNomes.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula20\ListaNomes\obj\Debug\ListaNomes.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula20\ListaNomes\obj\Debug\ListaNomes.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula20\ListaNomes\obj\Debug\ListaNomes.exe
+C:\Users\Mauro\Documents\C#Learning\Aula20\ListaNomes\obj\Debug\ListaNomes.pdb

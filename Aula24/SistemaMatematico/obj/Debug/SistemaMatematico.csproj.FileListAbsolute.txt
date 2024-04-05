@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula24\SistemaMatematico\bin\Debug\SistemaMatematico.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula24\SistemaMatematico\bin\Debug\SistemaMatematico.exe
+C:\Users\Mauro\Documents\C#Learning\Aula24\SistemaMatematico\bin\Debug\SistemaMatematico.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.exe
+C:\Users\Mauro\Documents\C#Learning\Aula24\SistemaMatematico\obj\Debug\SistemaMatematico.pdb

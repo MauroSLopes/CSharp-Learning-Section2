@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula05\ComandosdeEntrada\bin\Debug\ComandosdeEntrada.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula05\ComandosdeEntrada\bin\Debug\ComandosdeEntrada.exe
+C:\Users\Mauro\Documents\C#Learning\Aula05\ComandosdeEntrada\bin\Debug\ComandosdeEntrada.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula05\ComandosdeEntrada\obj\Debug\ComandosdeEntrada.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula05\ComandosdeEntrada\obj\Debug\ComandosdeEntrada.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula05\ComandosdeEntrada\obj\Debug\ComandosdeEntrada.exe
+C:\Users\Mauro\Documents\C#Learning\Aula05\ComandosdeEntrada\obj\Debug\ComandosdeEntrada.pdb

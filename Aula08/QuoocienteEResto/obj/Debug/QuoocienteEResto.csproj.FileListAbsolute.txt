@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula08\QuoocienteEResto\bin\Debug\QuoocienteEResto.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula08\QuoocienteEResto\bin\Debug\QuoocienteEResto.exe
+C:\Users\Mauro\Documents\C#Learning\Aula08\QuoocienteEResto\bin\Debug\QuoocienteEResto.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula08\QuoocienteEResto\obj\Debug\QuoocienteEResto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula08\QuoocienteEResto\obj\Debug\QuoocienteEResto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula08\QuoocienteEResto\obj\Debug\QuoocienteEResto.exe
+C:\Users\Mauro\Documents\C#Learning\Aula08\QuoocienteEResto\obj\Debug\QuoocienteEResto.pdb

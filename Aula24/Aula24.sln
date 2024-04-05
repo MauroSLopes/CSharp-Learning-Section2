@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaMatematico", "SistemaMatematico\SistemaMatematico.csproj", "{EDF7D093-CF73-4CC1-A085-6B22C920A01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF7D093-CF73-4CC1-A085-6B22C920A01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF7D093-CF73-4CC1-A085-6B22C920A01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF7D093-CF73-4CC1-A085-6B22C920A01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF7D093-CF73-4CC1-A085-6B22C920A01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7247350A-71A9-49B6-BA27-975F63C54274}
+	EndGlobalSection
+EndGlobal

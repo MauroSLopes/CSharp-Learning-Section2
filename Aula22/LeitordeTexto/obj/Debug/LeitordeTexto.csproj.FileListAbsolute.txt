@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula22\LeitordeTexto\bin\Debug\LeitordeTexto.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula22\LeitordeTexto\bin\Debug\LeitordeTexto.exe
+C:\Users\Mauro\Documents\C#Learning\Aula22\LeitordeTexto\bin\Debug\LeitordeTexto.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula22\LeitordeTexto\obj\Debug\LeitordeTexto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula22\LeitordeTexto\obj\Debug\LeitordeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula22\LeitordeTexto\obj\Debug\LeitordeTexto.exe
+C:\Users\Mauro\Documents\C#Learning\Aula22\LeitordeTexto\obj\Debug\LeitordeTexto.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula03\Tabuadado2\bin\Debug\Tabuadado2.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula03\Tabuadado2\bin\Debug\Tabuadado2.exe
+C:\Users\Mauro\Documents\C#Learning\Aula03\Tabuadado2\bin\Debug\Tabuadado2.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula03\Tabuadado2\obj\Debug\Tabuadado2.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula03\Tabuadado2\obj\Debug\Tabuadado2.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula03\Tabuadado2\obj\Debug\Tabuadado2.exe
+C:\Users\Mauro\Documents\C#Learning\Aula03\Tabuadado2\obj\Debug\Tabuadado2.pdb

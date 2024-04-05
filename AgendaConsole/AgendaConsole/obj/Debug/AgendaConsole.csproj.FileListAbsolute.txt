@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe.config
+C:\Users\Mauro\Documents\C#Learning\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.exe
+C:\Users\Mauro\Documents\C#Learning\AgendaConsole\AgendaConsole\bin\Debug\AgendaConsole.pdb
+C:\Users\Mauro\Documents\C#Learning\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.exe
+C:\Users\Mauro\Documents\C#Learning\AgendaConsole\AgendaConsole\obj\Debug\AgendaConsole.pdb

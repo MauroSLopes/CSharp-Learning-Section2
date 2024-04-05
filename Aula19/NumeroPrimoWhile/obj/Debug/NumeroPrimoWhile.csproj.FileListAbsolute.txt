@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula19\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula19\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.exe
+C:\Users\Mauro\Documents\C#Learning\Aula19\NumeroPrimoWhile\bin\Debug\NumeroPrimoWhile.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.exe
+C:\Users\Mauro\Documents\C#Learning\Aula19\NumeroPrimoWhile\obj\Debug\NumeroPrimoWhile.pdb

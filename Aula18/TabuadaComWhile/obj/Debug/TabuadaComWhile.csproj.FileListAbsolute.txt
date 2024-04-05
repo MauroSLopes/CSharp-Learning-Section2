@@ -1,0 +1,7 @@
+C:\Users\Mauro\Documents\C#Learning\Aula18\TabuadaComWhile\bin\Debug\TabuadaComWhile.exe.config
+C:\Users\Mauro\Documents\C#Learning\Aula18\TabuadaComWhile\bin\Debug\TabuadaComWhile.exe
+C:\Users\Mauro\Documents\C#Learning\Aula18\TabuadaComWhile\bin\Debug\TabuadaComWhile.pdb
+C:\Users\Mauro\Documents\C#Learning\Aula18\TabuadaComWhile\obj\Debug\TabuadaComWhile.csproj.AssemblyReference.cache
+C:\Users\Mauro\Documents\C#Learning\Aula18\TabuadaComWhile\obj\Debug\TabuadaComWhile.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Documents\C#Learning\Aula18\TabuadaComWhile\obj\Debug\TabuadaComWhile.exe
+C:\Users\Mauro\Documents\C#Learning\Aula18\TabuadaComWhile\obj\Debug\TabuadaComWhile.pdb
